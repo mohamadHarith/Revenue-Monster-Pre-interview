@@ -23,11 +23,13 @@ npm start
 ```
 
 **Tecnologies**
+
  - React
  - React Bootstrap
  - Node.js / Express.js
 
 **Functionalities**
+
 For each of the functionalities below I have put the hyperlink to the code snippet.
  - Frontend
  - [Fetches movie data](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/frontend/src/App.js#L31-L45) from backend 
@@ -40,10 +42,13 @@ For each of the functionalities below I have put the hyperlink to the code snipp
  - [Deletes the cached data on termination.](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/backend/App.js#L30-L38)
  
  **API Endpoints**
+ 
  ***Root endpoint***
+ 
  ```http://localhost:PORT//revenuMonsterPreinterviewTest```
  
  ***Sub endpoints***
+ 
 ```
 /movieData
  - Method: GET
