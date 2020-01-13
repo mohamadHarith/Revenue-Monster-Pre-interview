@@ -31,11 +31,15 @@ npm start
 **Functionalities**
 
 For each of the functionalities below I have put the hyperlink to the code snippet.
+ 
  Frontend
+ 
  - [Fetches movie data](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/frontend/src/App.js#L31-L45) from backend 
  - [Displays the movie data.](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/frontend/src/App.js#L111-L145) 
  - [Queries data to backend.](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/frontend/src/App.js#L71-L98)
+ 
  Backend
+ 
  - [Fetches movie data](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/backend/services/movieDataService.js#L7-L28) from The Movie DB API.
  - [Parses the data from the API and caches the data and images](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/backend/services/movieDataService.js#L30-L89) to the local server.
  - [Handle client query.](https://github.com/mohamadHarith/Revenue-Monster-Pre-interview/blob/63cb95ba658e70db0f66672760a837d3dd834ebf/backend/services/movieDataService.js#L101-L124)
