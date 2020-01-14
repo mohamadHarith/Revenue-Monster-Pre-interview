@@ -69,7 +69,7 @@ For each of the functionalities below I have put the hyperlink to the code snipp
 ```
 ```
 /searchMovie
- - Method: GET
+ - Method: POST
  - Request body: queryString
  - Query paramaters: none
  - Route parameters: none
