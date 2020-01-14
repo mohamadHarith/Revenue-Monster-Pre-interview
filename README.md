@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-**Tecnologies**
+**Technologies**
 
  - React
  - React Bootstrap
